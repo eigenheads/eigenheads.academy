@@ -18,8 +18,16 @@ body {
   font-size: 4.5em;
   font-weight: 700;
   color: #FFFFFF;
-  opacity: 0.78;
+  opacity: 0.78; 
 }
+
+h1 {
+  color: #FFFFFF;
+}
+
+h3 {
+	color: #FFFFFF;
+  }
 
 /* Side Menu */
 
@@ -183,7 +191,7 @@ i.service-icon {
 
 .call-to-action {
   color: #ffffff;
-  background: #0a5175;
+  background: #321c11;
   padding: 50px 0;
 }
 
