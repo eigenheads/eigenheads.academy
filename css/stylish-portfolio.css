@@ -15,18 +15,19 @@ body {
 .vert-text h1 {
   padding: 0;
   margin: 0;
-  font-size: 4.5em;
-  font-weight: 700;
-  color: #FFFFFF;
-  opacity: 0.78; 
+  width: 1170px;
+  font-size: 3.5em;
+  font-weight: 300;
+  color: #000000;
+  opacity: 1.0; 
 }
 
 h1 {
-  color: #FFFFFF;
+  color: #000000;
 }
 
 h3 {
-	color: #FFFFFF;
+	color: #000000;
   }
 
 /* Side Menu */
@@ -190,8 +191,8 @@ i.service-icon {
 /* Call to Action */
 
 .call-to-action {
-  color: #ffffff;
-  background: #17232C;
+  color: #000000;
+  background: #C5DBE8;
   padding: 50px 0;
 }
 
