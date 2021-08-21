@@ -13,9 +13,8 @@ body {
 }
 
 .vert-text h1 {
-  padding: 0;
+  padding: 15px;
   margin: 0;
-  width: 1170px;
   font-size: 3.5em;
   font-weight: 300;
   color: #000000;
@@ -138,7 +137,7 @@ h3 {
 /* Services */
 
 .services {
-  background: #c2d0b9;
+  background: #E3ECF1;
   padding: 50px 0;
   color: #000000;
 }
@@ -192,7 +191,7 @@ i.service-icon {
 
 .call-to-action {
   color: #000000;
-  background: #C5DBE8;
+  background: #E3ECF1;
   padding: 50px 0;
 }
 
